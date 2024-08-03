@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **gouthamgajam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PqamtxC-kzo53b9OrMrCmOCL8ribH6KU/view?usp=share_link](https://drive.google.com/file/d/1PqamtxC-kzo53b9OrMrCmOCL8ribH6KU/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PqamtxC-kzo53b9OrMrCmOCL8ribH6KU/view?usp=share_link](https://drive.google.com/file/d/16Nv223gOfVAK8geQVOxwDigHt2Xf2WRM/view?usp=share_link)
 
 - ⚡ Fun fact **Im techie person 🖥️**
 
