@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouthamgajam&label=Profile%20views&color=0e75b6&style=flat" alt="gouthamgajam" /> </p>
 
-- 🌱 I’m currently learning **Frontend and Backend**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **gouthamgajam@gmail.com**
 
