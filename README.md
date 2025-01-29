@@ -1,7 +1,7 @@
 ![logo](https://github.com/GouthamGajam/GouthamGajam/blob/main/first.jpg)
 <h1 align="center">Hi 👋, I'm Gajam Goutham Kumar</h1>
 <h3 align="center">Aspiring Expert in Data Science and Computer Science</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouthamgajam&label=Profile%20views&color=0e75b6&style=flat" alt="gouthamgajam" /> </p>
@@ -12,7 +12,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PqamtxC-kzo53b9OrMrCmOCL8ribH6KU/view?usp=share_link](https://drive.google.com/file/d/16Nv223gOfVAK8geQVOxwDigHt2Xf2WRM/view?usp=share_link)
 
-- ⚡ Fun fact **Im techie person 🖥️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
